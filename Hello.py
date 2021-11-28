@@ -1,0 +1,5 @@
+print("Hello World")
+print("We are ready to roll")
+a=int(input("enter value A: "))
+b=int(input("enter value B: "))
+print(a+b)
