@@ -56,3 +56,4 @@ to push master branch into GitHub repo
 2. git push -u origin master
 
 use personal access token in password
+use only git push to push it in repo
